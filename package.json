@@ -1,0 +1,16 @@
+{
+  "name": "vite-starter",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "sass-embedded": "^1.79.3",
+    "vite": "^5.4.7"
+  }
+}
